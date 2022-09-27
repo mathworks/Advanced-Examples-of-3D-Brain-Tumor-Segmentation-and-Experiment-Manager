@@ -65,7 +65,7 @@ As noted previously,  the experiment manager app doesn't allow debugging.  Howev
 
 Additional information about set up
 
-### MathWorks Products (http://www.mathworks.com)
+### MathWorks Products (https://www.mathworks.com)
 
 Requires MATLAB release R#### or newer
 - R2021a(https://www.mathworks.com/downloads/web_downloads/)
